@@ -5,8 +5,8 @@ var images = [
   { img: "antibodydescribe.png", pair: 2 },
   { img: "antigenword.png", pair: 3 },
   { img: "antigendescribe.png", pair: 3 },
-  { img: "ภูมิคุ้มกันword.png", pair: 4 },
-  { img: "ภูมิคุ้มกันdescribe.png", pair: 4 },
+  { img: "whitecellword.png", pair: 4 },
+  { img: "whitecelldescribe.png", pair: 4 },
   { img: "phagocyteword.png", pair: 5 },
   { img: "phagocytedescribe.png", pair: 5 },
   { img: "lymphocyteword.png", pair: 6 }, 
@@ -140,6 +140,7 @@ function newGame() {
     startGame();
 }
 startGame() 
+
 
 
 
